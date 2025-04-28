@@ -1,3 +1,4 @@
 nbs/.ipynb_checkpoints/
 .venv/
 .DS_Store
+.vscode/settings.json
